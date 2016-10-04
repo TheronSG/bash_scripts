@@ -1,0 +1,2 @@
+name1 group1 homedir1 password1
+name2 group2 homedir2 password2
